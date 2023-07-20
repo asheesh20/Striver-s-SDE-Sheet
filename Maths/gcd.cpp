@@ -7,3 +7,4 @@ int calcGCD(int n, int m){
     return n;
 }
 // gcd(a,b)= gcd(a%b,b) if(a>b)
+// Time Complexity : 0(log Φ min(a,b)) 
